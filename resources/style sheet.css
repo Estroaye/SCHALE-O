@@ -10,21 +10,22 @@ body {
 }
 
 header {
-  background-image: url(https://anexartisia.github.io/ihatedoingthisshit/the%20peak.png);
+  background-image: url(https://cdn.discordapp.com/attachments/1313507674146607146/1316930420725518366/20241008_153553.jpg?ex=675cd687&is=675b8507&hm=08909a0a4d5a08ac7b3332de8f722e5aa6dc55a7961a00ece2685807e1a485a9&);
   background-color: #D8DEE9;
-  background-position: center;
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30vh;
+  height: 30vw;
   position: relative;
 }
  header pre{
   position: absolute;
-  bottom: 0px;
+  margin-block: auto;
   left: 0px;
-  background-color: #dffdff;
+  background-color: #4fff9ede;
   margin: 0%;
   padding: 2%;
+  border-radius: 12PX;
  }
  header h1{
   background-color:#66b5bb;
@@ -128,6 +129,11 @@ header p {
   position: relative;
   margin: 15px;
 }
+
+.post div h3{
+  color: #f06472;
+}
+
 
 .posta {
   background: #f5987b;
