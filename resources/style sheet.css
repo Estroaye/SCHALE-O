@@ -112,12 +112,8 @@ header p {
 
 .postbox {
   background-color:#5d6f8d;
-  max-height: 300px;
+  height: 400px;
   overflow-y: scroll;
-}
-
-.postbox::-webkit-scrollbar {
-  display: none;
 }
 
 .post {
